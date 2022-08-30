@@ -9,6 +9,7 @@ import styleImport from 'vite-plugin-style-import'
 export default defineConfig({
   base: './',
   server: {
+    host: '0.0.0.0',
     open: true
   },
   build: {
