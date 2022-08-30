@@ -1,8 +1,6 @@
 
 <h2 align="center">
-Simple Cross Platform m3u8 Web Player<br> ZY Player Web<br>
-<a href="http://zyplayer.fun/" target="_blank">Homepage</a>
-<a href="https://github.com/Hunlongyu/ZY-Player-Web/issues" target="_blank">feedback</a>
+A simple cross platform m3u8 Web Player (ZY-Player-Web)
 </h2>
 
 ### Demo
