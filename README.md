@@ -24,6 +24,6 @@ A simple cross platform m3u8 Web Player<br>
 ### Install & Run
 
 ```shell
-npm install
-npm run serve
+yarn; yarn build
+yarn run serve
 ```
