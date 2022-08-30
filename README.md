@@ -1,6 +1,7 @@
 
 <h2 align="center">
-A simple cross platform m3u8 Web Player (ZY-Player-Web)
+A simple cross platform m3u8 Web Player<br>
+(ZY-Player-Web)
 </h2>
 
 ### Demo
