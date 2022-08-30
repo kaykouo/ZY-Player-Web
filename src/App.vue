@@ -78,16 +78,6 @@
     <!-- 抽屉：设置 -->
     <el-drawer :title="t('title.setting')" :size="size" v-model="show.setting" direction="rtl">
       <div class="setting-body">
-        <div class="logo">
-          <img src="./assets/img/logo.png" alt="">
-          <h2>ZY Player Web</h2>
-          <p>
-            <a href="https://github.com/Hunlongyu/ZY-Player-Web" target="_blank">Github</a>
-            <a href="https://github.com/Hunlongyu/ZY-Player-Web/issues" target="_blank">{{t('setting.issues')}}</a>
-            <a href="https://github.com/Hunlongyu/ZY-Player" target="_blank">{{t('setting.pc')}}</a>
-            <a href="https://github.com/Hunlongyu/ZY-Player-APP" target="_blank">{{t('setting.mobile')}}</a>
-          </p>
-        </div>
         <div class="setting-item">
           <el-button size="small" @click="clearHistory">{{t('setting.clear-history')}}</el-button>
           <el-button size="small" @click="clearStar">{{t('setting.clear-star')}}</el-button>
