@@ -79,6 +79,7 @@
     <el-drawer :title="t('title.setting')" :size="size" v-model="show.setting" direction="rtl">
       <div class="setting-body">
         <div class="setting-item">
+          <div>https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8</div>
           <el-button size="small" @click="clearHistory">{{t('setting.clear-history')}}</el-button>
           <el-button size="small" @click="clearStar">{{t('setting.clear-star')}}</el-button>
         </div>
